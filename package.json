@@ -1,0 +1,29 @@
+{
+  "name": "hapi-dulcimer-skeleton",
+  "version": "0.0.0",
+  "description": "A starting point for a hapi-dulcimer-project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fritzy/hapi-dulcimer-project.git"
+  },
+  "author": "Nathan Fritz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fritzy/hapi-dulcimer-project/issues"
+  },
+  "homepage": "https://github.com/fritzy/hapi-dulcimer-project",
+  "dependencies": {
+    "platform-gateway-auth": "^1.0.4",
+    "hapi": "^6.7.1",
+    "moonboots_hapi": "^2.4.0",
+    "getconfig": "^0.3.0",
+    "templatize": "^0.3.2",
+    "stylizer": "^1.0.0",
+    "templatizer": "^1.0.0",
+    "dulcimer": "^2.2.1"
+  }
+}
